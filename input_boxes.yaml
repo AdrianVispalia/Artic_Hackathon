@@ -1,0 +1,422 @@
+'27':
+  accumulate_alarm_size: 1
+  accumulate_reference: 60
+  alarm_duration: 2.0
+  dimensions:
+    x: 0.5
+    y: 0.5
+    z: 0.5
+  dio: -1
+  dio_time_out: 1.0
+  event_hysteresis_seconds: 0.0
+  event_time_out_seconds: 1.5
+  excluded_classes: []
+  hysteresis_threshold: 3
+  hysteresis_window_size: 6
+  id: 27
+  logic_id_1: 0
+  logic_id_2: 0
+  logic_op: ''
+  name: ''
+  orientation:
+    w: 1.0
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  position:
+    x: 2.5904051425135304
+    y: 1.8331562909879116
+    z: -0.7012467168824635
+  resolution: 0.01
+  save_alarm_box_diff: 0
+  save_alarm_scan: 0
+  save_duration: 100
+  save_interval: 0
+  standard_deviation_hysteresis_threshold: 3
+  standard_deviation_hysteresis_window_size: 6
+  standard_deviation_save: 0
+  standard_deviation_threshold: 0.0
+  threshold: 20
+  threshold_percent: 0.0
+  type: disabled
+'28':
+  accumulate_alarm_size: 1
+  accumulate_reference: 60
+  alarm_duration: 2.0
+  dimensions:
+    x: 0.5
+    y: 0.5
+    z: 0.5
+  dio: -1
+  dio_time_out: 1.0
+  event_hysteresis_seconds: 0.0
+  event_time_out_seconds: 1.5
+  excluded_classes: []
+  hysteresis_threshold: 3
+  hysteresis_window_size: 6
+  id: 28
+  logic_id_1: 0
+  logic_id_2: 0
+  logic_op: ''
+  name: ''
+  orientation:
+    w: 0.9734920240212005
+    x: 0.0
+    y: 0.0
+    z: -0.228720963549707
+  position:
+    x: 5.458090507578528
+    y: 1.62397334623277
+    z: -0.7012467168824635
+  resolution: 0.01
+  save_alarm_box_diff: 0
+  save_alarm_scan: 0
+  save_duration: 100
+  save_interval: 0
+  standard_deviation_hysteresis_threshold: 3
+  standard_deviation_hysteresis_window_size: 6
+  standard_deviation_save: 0
+  standard_deviation_threshold: 0.0
+  threshold: 20
+  threshold_percent: 0.0
+  type: disabled
+'29':
+  accumulate_alarm_size: 1
+  accumulate_reference: 60
+  alarm_duration: 2.0
+  dimensions:
+    x: 0.5
+    y: 0.5
+    z: 0.5
+  dio: -1
+  dio_time_out: 1.0
+  event_hysteresis_seconds: 0.0
+  event_time_out_seconds: 1.5
+  excluded_classes: []
+  hysteresis_threshold: 3
+  hysteresis_window_size: 6
+  id: 29
+  logic_id_1: 0
+  logic_id_2: 0
+  logic_op: ''
+  name: ''
+  orientation:
+    w: 0.7943345759620664
+    x: 0.0
+    y: 0.0
+    z: -0.6074805193840905
+  position:
+    x: 6.028945047083031
+    y: 0.5923330426995329
+    z: -0.7012467168824635
+  resolution: 0.01
+  save_alarm_box_diff: 0
+  save_alarm_scan: 0
+  save_duration: 100
+  save_interval: 0
+  standard_deviation_hysteresis_threshold: 3
+  standard_deviation_hysteresis_window_size: 6
+  standard_deviation_save: 0
+  standard_deviation_threshold: 0.0
+  threshold: 20
+  threshold_percent: 0.0
+  type: disabled
+'30':
+  accumulate_alarm_size: 1
+  accumulate_reference: 60
+  alarm_duration: 2.0
+  dimensions:
+    x: 0.5
+    y: 0.5
+    z: 0.5
+  dio: -1
+  dio_time_out: 1.0
+  event_hysteresis_seconds: 0.0
+  event_time_out_seconds: 1.5
+  excluded_classes: []
+  hysteresis_threshold: 3
+  hysteresis_window_size: 6
+  id: 30
+  logic_id_1: 0
+  logic_id_2: 0
+  logic_op: ''
+  name: ''
+  orientation:
+    w: -0.5225619683951005
+    x: 0.0
+    y: 0.0
+    z: 0.8526013072867283
+  position:
+    x: 5.844672003588843
+    y: -0.8072545421996485
+    z: -0.7012467168824635
+  resolution: 0.01
+  save_alarm_box_diff: 0
+  save_alarm_scan: 0
+  save_duration: 100
+  save_interval: 0
+  standard_deviation_hysteresis_threshold: 3
+  standard_deviation_hysteresis_window_size: 6
+  standard_deviation_save: 0
+  standard_deviation_threshold: 0.0
+  threshold: 20
+  threshold_percent: 0.0
+  type: disabled
+'31':
+  accumulate_alarm_size: 1
+  accumulate_reference: 60
+  alarm_duration: 2.0
+  dimensions:
+    x: 0.5
+    y: 0.5
+    z: 0.5
+  dio: -1
+  dio_time_out: 1.0
+  event_hysteresis_seconds: 0.0
+  event_time_out_seconds: 1.5
+  excluded_classes: []
+  hysteresis_threshold: 3
+  hysteresis_window_size: 6
+  id: 31
+  logic_id_1: 0
+  logic_id_2: 0
+  logic_op: ''
+  name: ''
+  orientation:
+    w: -0.27179475613265797
+    x: 0.0
+    y: 0.0
+    z: 0.9623552413421922
+  position:
+    x: 5.082200552018722
+    y: -1.7519633899998048
+    z: -0.7012467168824635
+  resolution: 0.01
+  save_alarm_box_diff: 0
+  save_alarm_scan: 0
+  save_duration: 100
+  save_interval: 0
+  standard_deviation_hysteresis_threshold: 3
+  standard_deviation_hysteresis_window_size: 6
+  standard_deviation_save: 0
+  standard_deviation_threshold: 0.0
+  threshold: 20
+  threshold_percent: 0.0
+  type: disabled
+'32':
+  accumulate_alarm_size: 1
+  accumulate_reference: 60
+  alarm_duration: 2.0
+  dimensions:
+    x: 0.5
+    y: 0.5
+    z: 0.5
+  dio: -1
+  dio_time_out: 1.0
+  event_hysteresis_seconds: 0.0
+  event_time_out_seconds: 1.5
+  excluded_classes: []
+  hysteresis_threshold: 3
+  hysteresis_window_size: 6
+  id: 32
+  logic_id_1: 0
+  logic_id_2: 0
+  logic_op: ''
+  name: ''
+  orientation:
+    w: -0.1256944636959971
+    x: 0.0
+    y: 0.0
+    z: 0.9920690005217256
+  position:
+    x: 4.108222244184026
+    y: -2.066026352956405
+    z: -0.7012467168824635
+  resolution: 0.01
+  save_alarm_box_diff: 0
+  save_alarm_scan: 0
+  save_duration: 100
+  save_interval: 0
+  standard_deviation_hysteresis_threshold: 3
+  standard_deviation_hysteresis_window_size: 6
+  standard_deviation_save: 0
+  standard_deviation_threshold: 0.0
+  threshold: 20
+  threshold_percent: 0.0
+  type: disabled
+'33':
+  accumulate_alarm_size: 1
+  accumulate_reference: 60
+  alarm_duration: 2.0
+  dimensions:
+    x: 0.5
+    y: 0.5
+    z: 0.5
+  dio: -1
+  dio_time_out: 1.0
+  event_hysteresis_seconds: 0.0
+  event_time_out_seconds: 1.5
+  excluded_classes: []
+  hysteresis_threshold: 3
+  hysteresis_window_size: 6
+  id: 33
+  logic_id_1: 0
+  logic_id_2: 0
+  logic_op: ''
+  name: ''
+  orientation:
+    w: 0.026345799914531627
+    x: 0.0
+    y: 0.0
+    z: 0.9996528891704679
+  position:
+    x: 2.757311702380381
+    y: -2.1354542648324397
+    z: -0.7012467168824635
+  resolution: 0.01
+  save_alarm_box_diff: 0
+  save_alarm_scan: 0
+  save_duration: 100
+  save_interval: 0
+  standard_deviation_hysteresis_threshold: 3
+  standard_deviation_hysteresis_window_size: 6
+  standard_deviation_save: 0
+  standard_deviation_threshold: 0.0
+  threshold: 20
+  threshold_percent: 0.0
+  type: disabled
+'34':
+  accumulate_alarm_size: 1
+  accumulate_reference: 60
+  alarm_duration: 2.0
+  dimensions:
+    x: 0.5
+    y: 0.5
+    z: 0.5
+  dio: -1
+  dio_time_out: 1.0
+  event_hysteresis_seconds: 0.0
+  event_time_out_seconds: 1.5
+  excluded_classes: []
+  hysteresis_threshold: 3
+  hysteresis_window_size: 6
+  id: 34
+  logic_id_1: 0
+  logic_id_2: 0
+  logic_op: ''
+  name: ''
+  orientation:
+    w: 0.4799798771369054
+    x: 0.0
+    y: 0.0
+    z: 0.8772794979615341
+  position:
+    x: 1.504164296133963
+    y: -1.6638187532240831
+    z: -0.7012467168824635
+  resolution: 0.01
+  save_alarm_box_diff: 0
+  save_alarm_scan: 0
+  save_duration: 100
+  save_interval: 0
+  standard_deviation_hysteresis_threshold: 3
+  standard_deviation_hysteresis_window_size: 6
+  standard_deviation_save: 0
+  standard_deviation_threshold: 0.0
+  threshold: 20
+  threshold_percent: 0.0
+  type: disabled
+'35':
+  accumulate_alarm_size: 1
+  accumulate_reference: 60
+  alarm_duration: 2.0
+  dimensions:
+    x: 0.5
+    y: 0.5
+    z: 0.5
+  dio: -1
+  dio_time_out: 1.0
+  event_hysteresis_seconds: 0.0
+  event_time_out_seconds: 1.5
+  excluded_classes: []
+  hysteresis_threshold: 3
+  hysteresis_window_size: 6
+  id: 35
+  logic_id_1: 0
+  logic_id_2: 0
+  logic_op: ''
+  name: ''
+  orientation:
+    w: 0.7130553359271453
+    x: 0.0
+    y: 0.0
+    z: 0.701107757699076
+  position:
+    x: 1.340564479047465
+    y: -0.3820327917677971
+    z: -0.7012467168824635
+  resolution: 0.01
+  save_alarm_box_diff: 0
+  save_alarm_scan: 0
+  save_duration: 100
+  save_interval: 0
+  standard_deviation_hysteresis_threshold: 3
+  standard_deviation_hysteresis_window_size: 6
+  standard_deviation_save: 0
+  standard_deviation_threshold: 0.0
+  threshold: 20
+  threshold_percent: 0.0
+  type: disabled
+'36':
+  accumulate_alarm_size: 1
+  accumulate_reference: 60
+  alarm_duration: 2.0
+  dimensions:
+    x: 0.5
+    y: 0.5
+    z: 0.5
+  dio: -1
+  dio_time_out: 1.0
+  event_hysteresis_seconds: 0.0
+  event_time_out_seconds: 1.5
+  excluded_classes: []
+  hysteresis_threshold: 3
+  hysteresis_window_size: 6
+  id: 36
+  logic_id_1: 0
+  logic_id_2: 0
+  logic_op: ''
+  name: ''
+  orientation:
+    w: 0.900808465643513
+    x: 0.0
+    y: 0.0
+    z: 0.43421666046454266
+  position:
+    x: 1.8310996026716815
+    y: 1.3449361672156557
+    z: -0.7012467168824635
+  resolution: 0.01
+  save_alarm_box_diff: 0
+  save_alarm_scan: 0
+  save_duration: 100
+  save_interval: 0
+  standard_deviation_hysteresis_threshold: 3
+  standard_deviation_hysteresis_window_size: 6
+  standard_deviation_save: 0
+  standard_deviation_threshold: 0.0
+  threshold: 20
+  threshold_percent: 0.0
+  type: disabled
+box_v:
+- '27'
+- '28'
+- '29'
+- '30'
+- '31'
+- '32'
+- '33'
+- '34'
+- '35'
+- '36'
+last_id: 36
